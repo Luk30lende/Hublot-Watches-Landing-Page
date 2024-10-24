@@ -229,7 +229,7 @@ img {
   bottom: -32px;
 }
 
-.swiper-pagination.bullet {
+.swiper-pagination-bullet {
   width: 16px;
   height: 2.5px;
   border-radius: 0;
@@ -238,7 +238,7 @@ img {
   transition: background-color 0.3s, width 0.3s;
 }
 
-.swiper-pagination.bullet-active {
+.swiper-pagination-bullet-active {
   width: 2.5px;
   background-color: var(--title-color);
 }
