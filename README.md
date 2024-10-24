@@ -68,3 +68,7 @@ Feel free to submit issues or pull requests if you have any suggestions or impro
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Author
+
+Designed and developed by [Your Name](https://github.com/Luk30lende). Feel free to follow me on GitHub for more projects!
